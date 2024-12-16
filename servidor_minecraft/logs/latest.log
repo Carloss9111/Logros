@@ -1,67 +1,64 @@
-[00:05:55] [Server thread/INFO]: Naannoo[/100.86.117.58:62949] logged in with entity id 1659 at (-38.5, 74.0, -117.5)
-[00:05:55] [Server thread/INFO]: Naannoo joined the game
-[00:05:56] [Server thread/INFO]: [voicechat] Received secret request of Naannoo (18)
-[00:05:56] [Server thread/INFO]: [voicechat] Sent secret to Naannoo
-[00:06:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[00:06:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[00:06:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
-[00:06:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-40, y=75, z=-117}
-[00:06:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-39, y=76, z=-117}
-[00:06:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-40, y=76, z=-116}
-[00:06:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-37, y=73, z=-119}
-[00:06:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-38, y=73, z=-118}
-[00:06:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-37, y=71, z=-119}
-[00:06:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-40, y=74, z=-116}
-[00:06:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-40, y=74, z=-116}
-[00:06:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-39, y=73, z=-116}
-[00:07:13] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[00:07:13] [Server thread/INFO]: Naannoo left the game
-[00:07:13] [Server thread/INFO]: [voicechat] Disconnecting client Naannoo
-[00:07:16] [Server thread/INFO]: Naannoo[/100.86.117.58:62978] logged in with entity id 1798 at (-24.30000001192093, 69.0, -125.49524307068653)
-[00:07:16] [Server thread/INFO]: Naannoo joined the game
-[00:07:16] [Server thread/INFO]: [voicechat] Received secret request of Naannoo (18)
-[00:07:16] [Server thread/INFO]: [voicechat] Sent secret to Naannoo
-[00:07:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[00:07:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[00:07:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
-[00:07:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-32, y=68, z=-126}
-[00:07:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-33, y=67, z=-125}
-[00:07:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-33, y=67, z=-124}
-[00:07:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-33, y=67, z=-125}
-[00:07:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-32, y=68, z=-126}
-[00:07:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-33, y=68, z=-126}
-[00:07:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-34, y=69, z=-123}
-[00:07:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-34, y=68, z=-123}
-[00:07:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=68, z=-126} class_2338{x=-34, y=69, z=-122}
-[00:07:59] [Server thread/INFO]: [Not Secure] <Naannoo> grupo
-[00:08:31] [Server thread/INFO]: Cafssterr has made the advancement [Stone Age]
-[00:08:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-35, y=69, z=-124}
-[00:08:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-35, y=69, z=-123}
-[00:08:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-34, y=70, z=-124}
-[00:08:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-35, y=69, z=-123}
-[00:08:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-39, y=60, z=-112}
-[00:08:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-39, y=57, z=-115}
-[00:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-38, y=59, z=-120}
-[00:09:02] [Server thread/INFO]: Naannoo has made the advancement [Monster Hunter]
-[00:09:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-42, y=59, z=-112}
-[00:09:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-42, y=59, z=-112}
-[00:09:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-42, y=59, z=-112}
-[00:09:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-44, y=60, z=-112}
-[00:09:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=71, z=-139} class_2338{x=-45, y=61, z=-112}
-[00:09:28] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[00:09:28] [Server thread/INFO]: Naannoo left the game
-[00:09:28] [Server thread/INFO]: [voicechat] Disconnecting client Naannoo
-[00:09:30] [Server thread/INFO]: Cafssterr lost connection: Disconnected
-[00:09:30] [Server thread/INFO]: Cafssterr left the game
-[00:09:30] [Server thread/INFO]: [voicechat] Disconnecting client Cafssterr
-[00:09:36] [Server thread/INFO]: Stopping the server
-[00:09:36] [Server thread/INFO]: Stopping server
-[00:09:36] [Server thread/INFO]: Saving players
-[00:09:36] [Server thread/INFO]: Saving worlds
-[00:09:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:09:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:09:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:09:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:09:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:09:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:09:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:15:18] [Server thread/INFO]: [Not Secure] <Cafssterr> X: -1,520 Z: -1,328
+[00:22:18] [Server thread/INFO]: [Not Secure] <Cafssterr> X: -1,520 Z: -1,328
+[00:23:44] [Server thread/INFO]: Naannoo was slain by Enderman
+[00:33:03] [Server thread/INFO]: Cafssterr has made the advancement [The Parrots and the Bats]
+[00:33:22] [Server thread/INFO]: Naannoo has made the advancement [The Parrots and the Bats]
+[00:34:37] [Server thread/INFO]: [Not Secure] <Cafssterr> zzz
+[00:34:40] [Server thread/INFO]: [Not Secure] <Naannoo> zzz
+[00:35:34] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[00:35:34] [Server thread/INFO]: Cafssterr left the game
+[00:35:39] [Server thread/INFO]: Cafssterr[/100.73.252.4:61525] logged in with entity id 32728 at (-1557.879938131568, 102.0, -1268.8031478771381)
+[00:35:39] [Server thread/INFO]: Cafssterr joined the game
+[00:40:10] [Server thread/INFO]: Naannoo has made the advancement [Voluntary Exile]
+[00:46:48] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[00:46:48] [Server thread/INFO]: Naannoo left the game
+[00:46:54] [Server thread/INFO]: Naannoo[/100.86.117.58:64662] logged in with entity id 36183 at (-1511.1038987142356, 103.0, -1273.3838859883324)
+[00:46:54] [Server thread/INFO]: Naannoo joined the game
+[01:01:08] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[01:01:08] [Server thread/INFO]: Naannoo left the game
+[01:01:12] [Server thread/INFO]: Naannoo[/100.86.117.58:64757] logged in with entity id 41786 at (-1566.2191190287094, 102.0, -1277.264512412171)
+[01:01:12] [Server thread/INFO]: Naannoo joined the game
+[01:01:20] [Server thread/INFO]: [Not Secure] <Naannoo> HERL
+[01:01:33] [Server thread/INFO]: [Not Secure] <Naannoo> HERO BRINE VEMI SAPO
+[01:01:35] [Server thread/INFO]: [Not Secure] <Naannoo> CULIAO
+[01:01:40] [Server thread/INFO]: [Not Secure] <Naannoo> COÑO
+[01:01:45] [Server thread/INFO]: [Not Secure] <Naannoo> PUTA
+[01:01:49] [Server thread/INFO]: [Not Secure] <Naannoo> JODER
+[01:14:52] [Server thread/INFO]: Cafssterr has made the advancement [A Seedy Place]
+[01:18:42] [Server thread/INFO]: Naannoo has made the advancement [A Seedy Place]
+[01:19:32] [Server thread/INFO]: Naannoo has made the advancement [What a Deal!]
+[01:20:09] [Server thread/INFO]: Cafssterr has made the advancement [What a Deal!]
+[01:34:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:03] [Server thread/INFO]: kickick Naannoo<--[HERE]
+[01:34:13] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[01:34:13] [Server thread/INFO]: Naannoo left the game
+[01:34:13] [Server thread/INFO]: Kicked Naannoo: Kicked by an operator
+[01:34:13] [Server thread/WARN]: handleDisconnection() called twice
+[01:34:17] [Server thread/INFO]: Naannoo[/100.86.117.58:64926] logged in with entity id 54180 at (-1590.6469551988903, 102.0, -1287.0457537199775)
+[01:34:17] [Server thread/INFO]: Naannoo joined the game
+[01:36:35] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[01:36:35] [Server thread/INFO]: Naannoo left the game
+[01:36:35] [Server thread/INFO]: Kicked Naannoo: Kicked by an operator
+[01:36:35] [Server thread/WARN]: handleDisconnection() called twice
+[01:36:39] [Server thread/INFO]: Naannoo[/100.86.117.58:64946] logged in with entity id 55292 at (-1576.233779616033, 71.0, -1480.3836608122888)
+[01:36:39] [Server thread/INFO]: Naannoo joined the game
+[01:38:46] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[01:38:46] [Server thread/INFO]: Naannoo left the game
+[01:38:51] [Server thread/INFO]: Naannoo[/100.86.117.58:64980] logged in with entity id 56443 at (-1556.699999988079, 72.0, -1469.300000011921)
+[01:38:51] [Server thread/INFO]: Naannoo joined the game
+[01:45:28] [Server thread/INFO]: Naannoo fell from a high place
+[02:05:31] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[02:05:31] [Server thread/INFO]: Cafssterr left the game
+[02:05:32] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[02:05:32] [Server thread/INFO]: Naannoo left the game
+[02:05:43] [Server thread/INFO]: Stopping the server
+[02:05:43] [Server thread/INFO]: Stopping server
+[02:05:43] [Server thread/INFO]: Saving players
+[02:05:43] [Server thread/INFO]: Saving worlds
+[02:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
