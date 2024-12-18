@@ -1,64 +1,42 @@
-[00:15:18] [Server thread/INFO]: [Not Secure] <Cafssterr> X: -1,520 Z: -1,328
-[00:22:18] [Server thread/INFO]: [Not Secure] <Cafssterr> X: -1,520 Z: -1,328
-[00:23:44] [Server thread/INFO]: Naannoo was slain by Enderman
-[00:33:03] [Server thread/INFO]: Cafssterr has made the advancement [The Parrots and the Bats]
-[00:33:22] [Server thread/INFO]: Naannoo has made the advancement [The Parrots and the Bats]
-[00:34:37] [Server thread/INFO]: [Not Secure] <Cafssterr> zzz
-[00:34:40] [Server thread/INFO]: [Not Secure] <Naannoo> zzz
-[00:35:34] [Server thread/INFO]: Cafssterr lost connection: Disconnected
-[00:35:34] [Server thread/INFO]: Cafssterr left the game
-[00:35:39] [Server thread/INFO]: Cafssterr[/100.73.252.4:61525] logged in with entity id 32728 at (-1557.879938131568, 102.0, -1268.8031478771381)
-[00:35:39] [Server thread/INFO]: Cafssterr joined the game
-[00:40:10] [Server thread/INFO]: Naannoo has made the advancement [Voluntary Exile]
-[00:46:48] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[00:46:48] [Server thread/INFO]: Naannoo left the game
-[00:46:54] [Server thread/INFO]: Naannoo[/100.86.117.58:64662] logged in with entity id 36183 at (-1511.1038987142356, 103.0, -1273.3838859883324)
-[00:46:54] [Server thread/INFO]: Naannoo joined the game
-[01:01:08] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[01:01:08] [Server thread/INFO]: Naannoo left the game
-[01:01:12] [Server thread/INFO]: Naannoo[/100.86.117.58:64757] logged in with entity id 41786 at (-1566.2191190287094, 102.0, -1277.264512412171)
-[01:01:12] [Server thread/INFO]: Naannoo joined the game
-[01:01:20] [Server thread/INFO]: [Not Secure] <Naannoo> HERL
-[01:01:33] [Server thread/INFO]: [Not Secure] <Naannoo> HERO BRINE VEMI SAPO
-[01:01:35] [Server thread/INFO]: [Not Secure] <Naannoo> CULIAO
-[01:01:40] [Server thread/INFO]: [Not Secure] <Naannoo> COÑO
-[01:01:45] [Server thread/INFO]: [Not Secure] <Naannoo> PUTA
-[01:01:49] [Server thread/INFO]: [Not Secure] <Naannoo> JODER
-[01:14:52] [Server thread/INFO]: Cafssterr has made the advancement [A Seedy Place]
-[01:18:42] [Server thread/INFO]: Naannoo has made the advancement [A Seedy Place]
-[01:19:32] [Server thread/INFO]: Naannoo has made the advancement [What a Deal!]
-[01:20:09] [Server thread/INFO]: Cafssterr has made the advancement [What a Deal!]
-[01:34:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:03] [Server thread/INFO]: kickick Naannoo<--[HERE]
-[01:34:13] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
-[01:34:13] [Server thread/INFO]: Naannoo left the game
-[01:34:13] [Server thread/INFO]: Kicked Naannoo: Kicked by an operator
-[01:34:13] [Server thread/WARN]: handleDisconnection() called twice
-[01:34:17] [Server thread/INFO]: Naannoo[/100.86.117.58:64926] logged in with entity id 54180 at (-1590.6469551988903, 102.0, -1287.0457537199775)
-[01:34:17] [Server thread/INFO]: Naannoo joined the game
-[01:36:35] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
-[01:36:35] [Server thread/INFO]: Naannoo left the game
-[01:36:35] [Server thread/INFO]: Kicked Naannoo: Kicked by an operator
-[01:36:35] [Server thread/WARN]: handleDisconnection() called twice
-[01:36:39] [Server thread/INFO]: Naannoo[/100.86.117.58:64946] logged in with entity id 55292 at (-1576.233779616033, 71.0, -1480.3836608122888)
-[01:36:39] [Server thread/INFO]: Naannoo joined the game
-[01:38:46] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[01:38:46] [Server thread/INFO]: Naannoo left the game
-[01:38:51] [Server thread/INFO]: Naannoo[/100.86.117.58:64980] logged in with entity id 56443 at (-1556.699999988079, 72.0, -1469.300000011921)
-[01:38:51] [Server thread/INFO]: Naannoo joined the game
-[01:45:28] [Server thread/INFO]: Naannoo fell from a high place
-[02:05:31] [Server thread/INFO]: Cafssterr lost connection: Disconnected
-[02:05:31] [Server thread/INFO]: Cafssterr left the game
-[02:05:32] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[02:05:32] [Server thread/INFO]: Naannoo left the game
-[02:05:43] [Server thread/INFO]: Stopping the server
-[02:05:43] [Server thread/INFO]: Stopping server
-[02:05:43] [Server thread/INFO]: Saving players
-[02:05:43] [Server thread/INFO]: Saving worlds
-[02:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:05:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:30:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:30:30] [ServerMain/INFO]: Loaded 1290 recipes
+[00:30:30] [ServerMain/INFO]: Loaded 1399 advancements
+[00:30:31] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:30:31] [Server thread/INFO]: Loading properties
+[00:30:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:30:31] [Server thread/INFO]: Generating keypair
+[00:30:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:30:32] [Server thread/INFO]: Using epoll channel type
+[00:30:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:30:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:30:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:30:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:30:32] [Server thread/INFO]: Preparing level "world"
+[00:30:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:40] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[00:30:40] [Server thread/INFO]: Time elapsed: 1268 ms
+[00:30:40] [Server thread/INFO]: Done (8.902s)! For help, type "help"
+[00:33:21] [Server thread/INFO]: Cafssterr[/100.73.252.4:57413] logged in with entity id 1 at (-1551.302178151531, 102.0, -1255.3431970526055)
+[00:33:21] [Server thread/INFO]: Cafssterr joined the game
+[00:33:31] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[00:33:31] [Server thread/INFO]: Cafssterr left the game
+[00:33:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[00:33:47] [Server thread/INFO]: Naannoo[/100.86.117.58:53336] logged in with entity id 392 at (-1554.2769728452674, 102.0, -1259.6054451703985)
+[00:33:47] [Server thread/INFO]: Naannoo joined the game
+[00:33:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:33:53] [Server thread/INFO]: puta<--[HERE]
+[00:34:10] [Server thread/INFO]: You whisper to Naannoo: putaaaa
+[00:35:31] [Server thread/INFO]: Cafssterr[/100.73.252.4:57519] logged in with entity id 2239 at (-1550.0470653689201, 102.0, -1265.0302611396407)
+[00:35:31] [Server thread/INFO]: Cafssterr joined the game
+[00:41:09] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[00:41:09] [Server thread/INFO]: Naannoo left the game
+[00:41:10] [Server thread/INFO]: Kicked Naannoo: Kicked by an operator
+[00:41:10] [Server thread/WARN]: handleDisconnection() called twice
+[00:41:13] [Server thread/INFO]: Naannoo[/100.86.117.58:53383] logged in with entity id 6814 at (-1553.0420066164918, 102.0, -1273.1768863516372)
+[00:41:13] [Server thread/INFO]: Naannoo joined the game
+[00:59:32] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[00:59:32] [Server thread/INFO]: Cafssterr left the game
+[00:59:37] [Server thread/INFO]: Cafssterr[/100.73.252.4:57739] logged in with entity id 18376 at (-1564.060309462441, 102.0, -1268.264866961016)
+[00:59:37] [Server thread/INFO]: Cafssterr joined the game
