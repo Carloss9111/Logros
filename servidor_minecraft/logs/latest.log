@@ -84,3 +84,22 @@
 [01:44:31] [Server thread/INFO]: [Not Secure] <Cafssterr> -1902 86 -1207
 [01:45:52] [Server thread/INFO]: [Not Secure] <Cafssterr> -1902 86 -1207
 [01:48:46] [Server thread/INFO]: Naannoo has made the advancement [Best Friends Forever]
+[01:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[01:59:39] [Server thread/INFO]: Naannoo has made the advancement [We Need to Go Deeper]
+[01:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[01:59:42] [Server thread/INFO]: Cafssterr has made the advancement [We Need to Go Deeper]
+[02:05:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:05:08] [Server thread/INFO]:  seed<--[HERE]
+[02:05:11] [Server thread/INFO]: Seed: [-4286982326464910862]
+[02:06:46] [Server thread/INFO]: [Not Secure] <Cafssterr> X: -288 Z: -320
+[02:06:54] [Server thread/INFO]: [Not Secure] <Cafssterr> X: -277 Z: -549
+[02:10:06] [Server thread/INFO]: Naannoo has made the advancement [Those Were the Days]
+[02:10:08] [Server thread/INFO]: Cafssterr has made the advancement [Those Were the Days]
+[02:10:14] [Server thread/INFO]: Cafssterr has made the advancement [War Pigs]
+[02:10:17] [Server thread/INFO]: Cafssterr has made the advancement [Who is Cutting Onions?]
+[02:12:48] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[02:12:48] [Server thread/INFO]: Cafssterr left the game
+[02:16:53] [Server thread/INFO]: Cafssterr[/100.73.252.4:58266] logged in with entity id 42063 at (-254.69999998807907, 30.029703272661706, -343.4153299642487)
+[02:16:53] [Server thread/INFO]: Cafssterr joined the game
+[02:16:55] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[02:16:55] [Server thread/INFO]: Cafssterr left the game
