@@ -2180,5 +2180,11 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-18 01:05:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
