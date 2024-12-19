@@ -39,3 +39,43 @@
 [00:43:32] [Server thread/INFO]: Naannoo joined the game
 [00:43:35] [Server thread/INFO]: Naannoo lost connection: Disconnected
 [00:43:35] [Server thread/INFO]: Naannoo left the game
+[00:45:45] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[00:45:45] [Server thread/INFO]: Cafssterr left the game
+[00:46:04] [Server thread/INFO]: Naannoo[/100.86.117.58:53792] logged in with entity id 1156 at (-266.5816498438283, 30.966608559122086, -331.55690070362795)
+[00:46:04] [Server thread/INFO]: Naannoo joined the game
+[00:46:08] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[00:46:08] [Server thread/INFO]: Naannoo left the game
+[00:47:03] [Server thread/INFO]: Unknown game mode: Naannoo
+[00:47:03] [Server thread/INFO]: ...de Naannoo<--[HERE]
+[00:47:13] [Server thread/INFO]: Unknown game mode: 1
+[00:47:13] [Server thread/INFO]: gamemode 1<--[HERE]
+[00:47:39] [Server thread/INFO]: Cafssterr[/100.73.252.4:54747] logged in with entity id 1358 at (-265.0357510748225, 28.912181367801868, -331.41839154613876)
+[00:47:39] [Server thread/INFO]: Cafssterr joined the game
+[00:47:40] [Server thread/INFO]: Unknown game mode: Cafssterr
+[00:47:40] [Server thread/INFO]: ... Cafssterr<--[HERE]
+[00:47:47] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[00:47:47] [Server thread/INFO]: Cafssterr left the game
+[00:48:26] [Server thread/INFO]: Cafssterr[/100.73.252.4:54769] logged in with entity id 1574 at (-265.0357510748225, 27.0, -331.41839154613876)
+[00:48:26] [Server thread/INFO]: Cafssterr joined the game
+[00:48:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:48:31] [Server thread/INFO]: gagamemode creative Cafssterrgamemode creative Cafssterr<--[HERE]
+[00:48:34] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[00:48:34] [Server thread/INFO]: Cafssterr left the game
+[00:49:16] [Server thread/INFO]: Naannoo[/100.86.117.58:53841] logged in with entity id 1797 at (-266.5816498438283, 28.72000004767906, -331.55690070362795)
+[00:49:16] [Server thread/INFO]: Naannoo joined the game
+[00:49:17] [Server thread/INFO]: Set Naannoo's game mode to Creative Mode
+[00:50:12] [Server thread/INFO]: Made Naannoo a server operator
+[00:51:06] [Server thread/INFO]: Cafssterr[/100.73.252.4:54833] logged in with entity id 2150 at (-265.0357510748225, 27.0, -331.41839154613876)
+[00:51:06] [Server thread/INFO]: Cafssterr joined the game
+[00:51:06] [Server thread/INFO]: [Naannoo: Set Cafssterr's game mode to Creative Mode]
+[00:51:34] [Server thread/INFO]: [Naannoo: Set own game mode to Survival Mode]
+[00:51:34] [Server thread/INFO]: [Naannoo: Set own game mode to Creative Mode]
+[00:51:35] [Server thread/INFO]: [Naannoo: Set own game mode to Survival Mode]
+[00:53:22] [Server thread/INFO]: [Naannoo: Set own game mode to Creative Mode]
+[00:53:31] [Server thread/INFO]: [Naannoo: Set Cafssterr's game mode to Survival Mode]
+[00:53:42] [Server thread/INFO]: [Naannoo: Set own game mode to Survival Mode]
+[00:53:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:53:49] [Server thread/INFO]: deopdeop Naannoo<--[HERE]
+[00:54:03] [Server thread/INFO]: [Naannoo: Made Naannoo no longer a server operator]
+[00:54:29] [Server thread/INFO]: Naannoo has made the advancement [War Pigs]
+[00:54:31] [Server thread/INFO]: Naannoo has made the advancement [Hidden in the Depths]
