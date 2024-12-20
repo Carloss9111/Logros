@@ -47,3 +47,23 @@
 [01:52:12] [Server thread/INFO]: Naannoo has completed the challenge [Hero of the Village]
 [02:27:28] [Server thread/INFO]: Cafssterr has made the advancement [Enchanter]
 [02:27:56] [Server thread/INFO]: Naannoo has made the advancement [Enchanter]
+[02:39:02] [Server thread/INFO]: Cafssterr has made the advancement [You've Got a Friend in Me]
+[02:41:39] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[02:41:39] [Server thread/INFO]: Cafssterr left the game
+[02:41:45] [Server thread/INFO]: Cafssterr[/100.73.252.4:51567] logged in with entity id 34031 at (-1566.2303974969884, 102.4, -1267.968622666156)
+[02:41:45] [Server thread/INFO]: Cafssterr joined the game
+[02:54:50] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[02:54:50] [Server thread/INFO]: Naannoo left the game
+[02:55:22] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[02:55:22] [Server thread/INFO]: Cafssterr left the game
+[02:56:10] [Server thread/INFO]: Stopping the server
+[02:56:10] [Server thread/INFO]: Stopping server
+[02:56:10] [Server thread/INFO]: Saving players
+[02:56:10] [Server thread/INFO]: Saving worlds
+[02:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
