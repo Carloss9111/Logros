@@ -344,6 +344,7 @@
       "minecraft:witch": "2024-12-15 23:01:04 +0000",
       "minecraft:wither_skeleton": "2024-12-19 01:45:45 +0000",
       "minecraft:ghast": "2024-12-19 01:05:57 +0000",
+      "minecraft:ender_dragon": "2024-12-20 01:27:07 +0000",
       "minecraft:hoglin": "2024-12-18 02:12:20 +0000",
       "minecraft:piglin": "2024-12-18 02:05:55 +0000",
       "minecraft:breeze": "2024-12-15 23:34:27 +0000",
@@ -3025,6 +3026,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 01:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-20 01:27:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 01:13:07 +0000"
@@ -3052,6 +3065,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 01:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-20 01:27:55 +0000"
     },
     "done": true
   },
@@ -3109,6 +3128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-20 01:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 01:13:07 +0000"
@@ -3160,6 +3185,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-20 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-20 01:20:46 +0000"
     },
     "done": true
   },
@@ -3232,6 +3263,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 01:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-20 01:20:46 +0000"
     },
     "done": true
   },
