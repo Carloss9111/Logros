@@ -314,19 +314,24 @@
       "minecraft:pillager": "2024-12-20 01:04:14 +0000",
       "minecraft:skeleton": "2024-12-15 22:30:38 +0000",
       "minecraft:zombified_piglin": "2024-12-19 02:05:25 +0000",
+      "minecraft:witch": "2024-12-20 01:39:41 +0000",
       "minecraft:wither_skeleton": "2024-12-19 01:46:16 +0000",
+      "minecraft:ravager": "2024-12-20 01:46:11 +0000",
       "minecraft:ghast": "2024-12-19 01:06:12 +0000",
       "minecraft:hoglin": "2024-12-19 00:45:25 +0000",
       "minecraft:piglin": "2024-12-18 02:11:17 +0000",
       "minecraft:breeze": "2024-12-15 23:33:54 +0000",
+      "minecraft:vindicator": "2024-12-20 01:34:26 +0000",
       "minecraft:silverfish": "2024-12-16 00:06:53 +0000",
       "minecraft:enderman": "2024-12-16 01:24:55 +0000",
       "minecraft:magma_cube": "2024-12-19 01:47:26 +0000",
       "minecraft:spider": "2024-12-15 22:30:56 +0000",
       "minecraft:piglin_brute": "2024-12-19 01:26:24 +0000",
+      "minecraft:vex": "2024-12-20 01:48:13 +0000",
       "minecraft:zombie": "2024-12-15 22:11:44 +0000",
       "minecraft:creeper": "2024-12-15 22:30:43 +0000",
-      "minecraft:zombie_villager": "2024-12-15 22:38:34 +0000"
+      "minecraft:zombie_villager": "2024-12-15 22:38:34 +0000",
+      "minecraft:evoker": "2024-12-20 01:40:54 +0000"
     },
     "done": false
   },
@@ -3207,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-20 01:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 01:13:47 +0000"
@@ -3264,6 +3275,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-20 01:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-20 01:37:33 +0000"
     },
     "done": true
   },
