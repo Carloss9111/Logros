@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-12-22 01:42:15 +0000",
       "minecraft:forest": "2024-12-15 22:29:14 +0000",
       "minecraft:jungle": "2024-12-15 23:01:22 +0000",
       "minecraft:ocean": "2024-12-18 01:35:19 +0000",
