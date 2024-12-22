@@ -3288,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-20 01:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2024-12-20 01:53:56 +0000"
@@ -3303,12 +3309,6 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-20 02:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2024-12-20 01:52:12 +0000"
     },
     "done": true
   },
