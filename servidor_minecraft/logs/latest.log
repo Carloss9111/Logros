@@ -181,3 +181,27 @@
 [03:47:44] [Server thread/WARN]: handleDisconnection() called twice
 [03:47:47] [Server thread/INFO]: Naannoo[/100.86.117.58:59535] logged in with entity id 66006 at (-1542.2422809437417, 103.17675927506424, -1272.5577105511334)
 [03:47:47] [Server thread/INFO]: Naannoo joined the game
+[03:55:31] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[03:55:31] [Server thread/INFO]: Cafssterr left the game
+[03:55:53] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[03:55:53] [Server thread/INFO]: Naannoo left the game
+[03:55:57] [Server thread/INFO]: Naannoo[/100.86.117.58:59594] logged in with entity id 68712 at (-1553.918822065043, 105.0, -1267.7738900697725)
+[03:55:57] [Server thread/INFO]: Naannoo joined the game
+[03:56:05] [Server thread/INFO]: No player was found
+[03:56:23] [Server thread/INFO]: Incorrect argument for command
+[03:56:23] [Server thread/INFO]: ...oo diamond <--[HERE]
+[03:56:45] [Server thread/INFO]: Gave 1 [Diamond] to Naannoo
+[03:57:34] [Server thread/INFO]: You whisper to Naannoo: putaaa
+[03:58:02] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[03:58:02] [Server thread/INFO]: Naannoo left the game
+[03:58:09] [Server thread/INFO]: Stopping the server
+[03:58:09] [Server thread/INFO]: Stopping server
+[03:58:09] [Server thread/INFO]: Saving players
+[03:58:09] [Server thread/INFO]: Saving worlds
+[03:58:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:58:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:58:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:58:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:58:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:58:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:58:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
