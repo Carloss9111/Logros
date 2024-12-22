@@ -152,3 +152,10 @@
 [03:12:28] [Server thread/INFO]: [Cafssterr: Set own game mode to Survival Mode]
 [03:12:29] [Server thread/INFO]: [Cafssterr: Set own game mode to Creative Mode]
 [03:12:35] [Server thread/INFO]: [Cafssterr: Set own game mode to Survival Mode]
+[03:15:07] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[03:15:07] [Server thread/INFO]: Naannoo left the game
+[03:15:07] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[03:15:08] [Server thread/WARN]: handleDisconnection() called twice
+[03:15:10] [Server thread/INFO]: Naannoo[/100.86.117.58:59360] logged in with entity id 47016 at (-1489.5935760249993, 97.0, -1278.5524573629293)
+[03:15:10] [Server thread/INFO]: Naannoo joined the game
+[03:18:25] [Server thread/INFO]: [Not Secure] <Naannoo> Combinar Hacha con Libro (Filo 5)Coste: 5 niveles (55 xp), Penalización de trabajo: 1 nivelCombinar Libro (Irrompibilidad 3) con Libro (Reparación)Coste: 2 niveles (16 xp), Penalización de trabajo: 1 nivelCombinar Hacha (Filo 5) con Libro (Irrompibil
