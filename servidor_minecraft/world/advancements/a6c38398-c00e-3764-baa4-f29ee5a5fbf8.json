@@ -3366,5 +3366,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-12-22 02:55:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
