@@ -76,3 +76,41 @@
 [02:43:01] [Server thread/INFO]: Naannoo left the game
 [02:43:04] [Server thread/INFO]: Naannoo[/100.86.117.58:59194] logged in with entity id 34989 at (-1546.9354349547655, 102.0, -1264.6868749880791)
 [02:43:04] [Server thread/INFO]: Naannoo joined the game
+[02:43:17] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[02:43:17] [Server thread/INFO]: Naannoo left the game
+[02:43:17] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[02:43:17] [Server thread/WARN]: handleDisconnection() called twice
+[02:43:20] [Server thread/INFO]: Naannoo[/100.86.117.58:59196] logged in with entity id 35088 at (-1548.4642866014563, 102.0, -1276.0214636389717)
+[02:43:20] [Server thread/INFO]: Naannoo joined the game
+[02:43:24] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[02:43:24] [Server thread/INFO]: Naannoo left the game
+[02:44:12] [Server thread/INFO]: Naannoo[/100.86.117.58:59226] logged in with entity id 35208 at (-1549.4537833893544, 102.0, -1271.3075450450472)
+[02:44:12] [Server thread/INFO]: Naannoo joined the game
+[02:45:57] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[02:45:57] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[02:45:57] [Server thread/INFO]: Naannoo left the game
+[02:46:00] [Server thread/INFO]: Naannoo[/100.86.117.58:59229] logged in with entity id 35689 at (-1548.7847417177636, 102.0, -1275.6709653097325)
+[02:46:00] [Server thread/INFO]: Naannoo joined the game
+[02:46:26] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[02:46:26] [Server thread/INFO]: Naannoo left the game
+[02:46:26] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[02:46:26] [Server thread/WARN]: handleDisconnection() called twice
+[02:46:30] [Server thread/INFO]: Naannoo[/100.86.117.58:59232] logged in with entity id 35786 at (-1543.5269967091924, 102.49520087700593, -1276.7541893308464)
+[02:46:30] [Server thread/INFO]: Naannoo joined the game
+[02:46:33] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[02:46:33] [Server thread/INFO]: Naannoo left the game
+[02:46:33] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[02:46:33] [Server thread/WARN]: handleDisconnection() called twice
+[02:46:36] [Server thread/INFO]: Naannoo[/100.86.117.58:59235] logged in with entity id 35810 at (-1546.404519365611, 102.0, -1275.5846518314704)
+[02:46:36] [Server thread/INFO]: Naannoo joined the game
+[02:52:01] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[02:52:01] [Server thread/INFO]: Naannoo left the game
+[02:52:01] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[02:52:01] [Server thread/WARN]: handleDisconnection() called twice
+[02:52:05] [Server thread/INFO]: Naannoo[/100.86.117.58:59250] logged in with entity id 37144 at (-1558.732914524522, 103.75410927238234, -1268.487500011921)
+[02:52:05] [Server thread/INFO]: Naannoo joined the game
+[02:52:57] [Server thread/INFO]: [Cafssterr: Kicked Naannoo: Kicked by an operator]
+[02:52:57] [Server thread/INFO]: Naannoo lost connection: Kicked by an operator
+[02:52:57] [Server thread/INFO]: Naannoo left the game
+[02:53:00] [Server thread/INFO]: Naannoo[/100.86.117.58:59264] logged in with entity id 37425 at (-1507.7174778323654, 102.1212968405392, -1273.6903477862538)
+[02:53:00] [Server thread/INFO]: Naannoo joined the game
