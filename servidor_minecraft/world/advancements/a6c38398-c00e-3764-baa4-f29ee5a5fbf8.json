@@ -8,14 +8,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2024-12-16 01:40:42 +0000",
+      "minecraft:dark_forest": "2024-12-25 23:37:04 +0000",
       "minecraft:forest": "2024-12-15 22:29:14 +0000",
+      "minecraft:river": "2024-12-15 23:01:29 +0000",
+      "minecraft:lush_caves": "2024-12-25 23:38:14 +0000",
+      "minecraft:dripstone_caves": "2024-12-16 01:43:16 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-25 23:37:16 +0000",
       "minecraft:jungle": "2024-12-15 23:15:04 +0000",
       "minecraft:cherry_grove": "2024-12-16 01:14:28 +0000",
       "minecraft:sunflower_plains": "2024-12-16 01:36:27 +0000",
-      "minecraft:river": "2024-12-15 23:01:29 +0000",
       "minecraft:meadow": "2024-12-16 00:32:07 +0000",
       "minecraft:birch_forest": "2024-12-18 01:45:54 +0000",
-      "minecraft:dripstone_caves": "2024-12-16 01:43:16 +0000",
       "minecraft:savanna": "2024-12-15 21:50:45 +0000",
       "minecraft:plains": "2024-12-16 00:31:11 +0000"
     },
@@ -3536,6 +3539,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-25 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-25 23:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-25 23:13:07 +0000"
@@ -3545,12 +3560,6 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2024-12-25 23:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2024-12-25 23:14:17 +0000"
     },
     "done": true
   },
@@ -3566,9 +3575,21 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
-      "in_city": "2024-12-25 23:00:15 +0000"
+      "has_end_stone_bricks": "2024-12-25 23:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-25 23:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-25 23:14:17 +0000"
     },
     "done": true
   },
@@ -3584,27 +3605,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-12-25 23:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-12-25 23:13:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-25 23:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-12-25 23:00:20 +0000"
     },
     "done": true
   },
@@ -3617,6 +3620,18 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-25 23:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-25 23:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-25 23:25:32 +0000"
     },
     "done": true
   },
