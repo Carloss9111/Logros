@@ -34,3 +34,14 @@
 [07:06:00] [Server thread/INFO]: Naannoo[/100.86.117.58:61256] logged in with entity id 26978 at (-1549.7239206010067, 103.0, -1270.4829479908497)
 [07:06:00] [Server thread/INFO]: Naannoo joined the game
 [07:19:42] [Server thread/INFO]: Cafssterr has made the advancement [Remote Getaway]
+[07:20:14] [Server thread/INFO]: Naannoo has made the advancement [Remote Getaway]
+[07:20:34] [Server thread/INFO]: Seed: [-4286982326464910862]
+[07:26:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-198, y=115, z=-106} jd{x=-199, y=114, z=-106}
+[07:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-199, y=118, z=-107} jd{x=-199, y=119, z=-107}
+[07:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-199, y=118, z=-107} jd{x=-199, y=119, z=-107}
+[07:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-199, y=118, z=-107} jd{x=-199, y=119, z=-107}
+[07:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-199, y=118, z=-107} jd{x=-199, y=119, z=-107}
+[07:26:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-198, y=124, z=-111} jd{x=-198, y=123, z=-110}
+[07:26:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-198, y=123, z=-110} jd{x=-197, y=124, z=-111}
+[07:26:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-198, y=123, z=-110} jd{x=-197, y=124, z=-111}
+[07:27:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-197, y=129, z=-108} jd{x=-198, y=128, z=-110}
