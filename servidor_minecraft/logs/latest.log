@@ -78,3 +78,13 @@
 [22:46:56] [Server thread/INFO]: Naannoo joined the game
 [22:51:18] [Server thread/INFO]: [Not Secure] <Cafssterr> X: 744 Z: 2,376
 [22:54:59] [Server thread/INFO]: [Not Secure] <Cafssterr> X: 1,368 Z: 2,344
+[22:58:42] [Server thread/INFO]: Naannoo lost connection: Timed out
+[22:58:42] [Server thread/INFO]: Naannoo left the game
+[22:58:42] [Server thread/WARN]: handleDisconnection() called twice
+[22:59:21] [Server thread/INFO]: Naannoo[/100.86.117.58:64463] logged in with entity id 16513 at (1057.8583344655083, 59.0, 20.068032367559933)
+[22:59:21] [Server thread/INFO]: Naannoo joined the game
+[23:00:03] [Server thread/INFO]: Cafssterr has made the advancement [The City at the End of the Game]
+[23:00:15] [Server thread/INFO]: Naannoo has made the advancement [The City at the End of the Game]
+[23:03:05] [Server thread/INFO]: Cafssterr has reached the goal [Sky's the Limit]
+[23:04:02] [Server thread/INFO]: [Not Secure] <Cafssterr> X: 1,368 Z: 2,344
+[23:04:31] [Server thread/INFO]: [Not Secure] <Cafssterr> X: 744 Z: 2,376

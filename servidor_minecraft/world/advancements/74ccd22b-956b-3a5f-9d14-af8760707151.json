@@ -314,27 +314,28 @@
       "minecraft:blaze": "2024-12-19 01:40:04 +0000",
       "minecraft:pillager": "2024-12-20 01:04:14 +0000",
       "minecraft:skeleton": "2024-12-15 22:30:38 +0000",
+      "minecraft:ravager": "2024-12-20 01:46:11 +0000",
+      "minecraft:ghast": "2024-12-19 01:06:12 +0000",
+      "minecraft:hoglin": "2024-12-19 00:45:25 +0000",
+      "minecraft:breeze": "2024-12-15 23:33:54 +0000",
+      "minecraft:vindicator": "2024-12-20 01:34:26 +0000",
+      "minecraft:magma_cube": "2024-12-19 01:47:26 +0000",
+      "minecraft:spider": "2024-12-15 22:30:56 +0000",
+      "minecraft:piglin_brute": "2024-12-19 01:26:24 +0000",
+      "minecraft:creeper": "2024-12-15 22:30:43 +0000",
+      "minecraft:evoker": "2024-12-20 01:40:54 +0000",
       "minecraft:phantom": "2024-12-20 01:51:37 +0000",
       "minecraft:zombified_piglin": "2024-12-19 02:05:25 +0000",
       "minecraft:witch": "2024-12-20 01:39:41 +0000",
       "minecraft:wither_skeleton": "2024-12-19 01:46:16 +0000",
-      "minecraft:ravager": "2024-12-20 01:46:11 +0000",
-      "minecraft:ghast": "2024-12-19 01:06:12 +0000",
       "minecraft:ender_dragon": "2024-12-25 22:30:35 +0000",
-      "minecraft:hoglin": "2024-12-19 00:45:25 +0000",
+      "minecraft:shulker": "2024-12-25 23:00:20 +0000",
       "minecraft:piglin": "2024-12-18 02:11:17 +0000",
-      "minecraft:breeze": "2024-12-15 23:33:54 +0000",
-      "minecraft:vindicator": "2024-12-20 01:34:26 +0000",
       "minecraft:silverfish": "2024-12-16 00:06:53 +0000",
       "minecraft:enderman": "2024-12-16 01:24:55 +0000",
-      "minecraft:magma_cube": "2024-12-19 01:47:26 +0000",
-      "minecraft:spider": "2024-12-15 22:30:56 +0000",
-      "minecraft:piglin_brute": "2024-12-19 01:26:24 +0000",
       "minecraft:vex": "2024-12-20 01:48:13 +0000",
       "minecraft:zombie": "2024-12-15 22:11:44 +0000",
-      "minecraft:creeper": "2024-12-15 22:30:43 +0000",
-      "minecraft:zombie_villager": "2024-12-15 22:38:34 +0000",
-      "minecraft:evoker": "2024-12-20 01:40:54 +0000"
+      "minecraft:zombie_villager": "2024-12-15 22:38:34 +0000"
     },
     "done": false
   },
@@ -608,6 +609,7 @@
       "bread": "2024-12-15 22:30:50 +0000",
       "golden_apple": "2024-12-19 01:30:30 +0000",
       "cooked_beef": "2024-12-15 22:14:50 +0000",
+      "chorus_fruit": "2024-12-25 23:00:13 +0000",
       "baked_potato": "2024-12-19 01:06:03 +0000",
       "golden_carrot": "2024-12-16 00:10:22 +0000"
     },
@@ -3641,9 +3643,27 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-25 23:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2024-12-25 22:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-25 23:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-25 23:00:44 +0000"
     },
     "done": true
   },

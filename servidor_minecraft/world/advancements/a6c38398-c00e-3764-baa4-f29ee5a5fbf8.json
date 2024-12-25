@@ -349,6 +349,7 @@
       "minecraft:ghast": "2024-12-19 01:05:57 +0000",
       "minecraft:ender_dragon": "2024-12-20 01:27:07 +0000",
       "minecraft:hoglin": "2024-12-18 02:12:20 +0000",
+      "minecraft:shulker": "2024-12-25 23:00:18 +0000",
       "minecraft:piglin": "2024-12-18 02:05:55 +0000",
       "minecraft:breeze": "2024-12-15 23:34:27 +0000",
       "minecraft:vindicator": "2024-12-20 01:37:16 +0000",
@@ -3532,6 +3533,18 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2024-12-25 22:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-25 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-25 23:00:20 +0000"
     },
     "done": true
   },
